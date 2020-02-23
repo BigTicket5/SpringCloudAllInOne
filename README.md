@@ -1,5 +1,11 @@
 # SpringCloudAllInOne
 
-#gateway
+#网关
 
-#register center
+#配置中心
+
+#熔断器
+
+#Feign Client
+
+#注册中心
